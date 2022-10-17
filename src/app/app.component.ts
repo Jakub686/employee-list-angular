@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Fullstack Portfolio app Jakub Chyła Angular + SpringBoot + PostgreSql';
+  title = 'Angular 10 Spring Boot CRUD Full Stack App';
 }
